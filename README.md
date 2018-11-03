@@ -5,7 +5,7 @@ Credit Risk Prediction for Loan Approval - German Credit Data
 
 In this Project, I have used German Credit Data to predict the the credit risk for a customer using his socio-economic profile and demographics. Once the credit risk of the customer is know, his chances of getting a loan application approved can be determined. 
 
-The dataset used is from UCI, Machine Learning Repository -[Statlog German Credit Data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) "German Credit Data"){:target="_blank"}
+The dataset used is from UCI, Machine Learning Repository -[Statlog German Credit Data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) "German Credit Data")
 
 
 So everytime a bank recieves a loan application, it has to run a credit risk determination to determine if the applicant repay the loan within commited time. The study I have planning to use logistic binary regression to categorize the applicant into two different credit risks,
