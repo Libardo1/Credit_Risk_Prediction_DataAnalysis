@@ -8,7 +8,7 @@ In this Project, I have used German Credit Data to predict the credit risk for a
 The dataset used is from UCI, Machine Learning Repository -[Statlog German Credit Data](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data) "German Credit Data")
 
 
-When bank receives a loan application, it has to run a credit risk determination to determine if the applicant can repay the loan within committed time. In this study I have planning to use logistic binary regression to categorize the applicant into two different credit risks,
+When bank receives a loan application, it has to run a credit risk determination to determine if the applicant can repay the loan within committed time. In this study I am planning to use logistic binary regression to categorize the applicant into two different credit risks,
 
 * If the applicant has a **good credit risk** (creditability = 1), then he is likely to repay his loan. The applicant has higher probability of loan application approval.
 
